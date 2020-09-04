@@ -1,7 +1,7 @@
 # mySpaceInvaders
 My first Unity project made for Digital Games module on Insper.
 
-novos recursos incorporados:
+# Novos recursos incorporados:
 1. Se um alien encostar nas bases, essas serão destruídas;
 2. Se um alien chegar até a parte de baixo da tela o jogador perde;
 3. Quando os tiros da nave e do alien colidem, eles se anulam;
@@ -13,4 +13,3 @@ novos recursos incorporados:
 9. Associe sons de efeitos especiais quando destruir um alien ou a nave;
 10. Crie um fundo musical para o jogo;\n
 11. Faça o rítmo da música mudar conforme o jogo avança;
-
