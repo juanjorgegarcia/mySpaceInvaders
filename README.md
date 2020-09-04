@@ -13,3 +13,9 @@ My first Unity project made for Digital Games module on Insper.
 9. Associe sons de efeitos especiais quando destruir um alien ou a nave;
 10. Crie um fundo musical para o jogo;\n
 11. Faça o rítmo da música mudar conforme o jogo avança;
+
+### References and credits:
+https://www.studytonight.com/game-development-in-2D/audio-in-unity;
+https://docs.unity3d.com/Manual/index.html;
+https://patrickdearteaga.com/ ;
+
